@@ -7,6 +7,7 @@
         <groupId>org.kie</groupId>
         <artifactId>kie-parent</artifactId>
         <version>7.67.2-SNAPSHOT</version>
+        <relativePath>../droolsjbpm-build-bootstrap/pom.xml</relativePath>
     </parent>
 
     <groupId>org.jbpm</groupId>
